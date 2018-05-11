@@ -1,12 +1,7 @@
 <?php
     include  'core/init.php';
-
 ?>
 <html>
-<!--
-   This template created by Meralesson.com
-   This template only use for educational purpose
--->
 <head>
     <title>Tweeter</title>
     <meta charset=""UTF-8 />
